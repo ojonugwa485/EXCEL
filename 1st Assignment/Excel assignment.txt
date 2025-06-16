@@ -1,0 +1,22 @@
+Kindly complete the empty Columns
+
+1.Total Revenue (Price-Cost)
+2.Extract Colors only from color
+3. Concatenate Make + Model
+4. Extract Year from Date
+5. Extract Month From Date
+6. Extract Day from Date
+7. Extract Hour from Date
+8. Calculate Sum of Toyota Revenue
+9. Calculate Sum of Ford Revenue
+10. Calculate Sum of Honda Accord Revenue
+11. Calculate Sum of Toyota Corolla Revenue
+12. What is Count of Black Toyota Camry
+13. Extract Minute from Date
+14. Calculate Sum of Chevrolet Silverado Mileage
+
+Watch past Videos to see how to solve the questions
+
+Mail Subject: Excel Assignment
+
+Submit on or before Friday.

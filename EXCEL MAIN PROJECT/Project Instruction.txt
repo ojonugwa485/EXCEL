@@ -1,0 +1,29 @@
+Read the instruction carefully:
+
+In the excel file there are 3 sheets.
+
+Orders sheet contains all the columns you need for this project.
+
+But some columns are in other sheets. eg customer name is in customers sheet so you will need to bring it to orders sheet.
+
+You will need to get the columns together in one sheet.
+
+NB: don't copy and paste
+
+You can use merge in Power Query or use XLOOPUP or use Power Pivot to join the tables.
+
+After joining the tables
+
+Here's your task:
+
+Build a dashboard with 4 visuals, 2 slicers of your choice and 2 KPIs
+
+the 4 Visuals are:
+1. top 10 customers by sales
+2. countries by sales
+3. Coffee type by customers
+4. Countries by customers
+
+
+
+Note Sales = Unit price * Quantity
